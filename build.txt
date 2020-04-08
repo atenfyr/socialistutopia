@@ -1,3 +1,8 @@
 displayName = Socialist Utopia
 author = Atenfyr
-version = 0.1.0
+version = 0.1.1
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, *.sln, *.md, wiki\*, Properties\*, obj\*, bin\*
+includePDB = true
